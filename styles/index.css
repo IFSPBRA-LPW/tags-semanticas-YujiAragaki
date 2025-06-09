@@ -55,3 +55,15 @@ nav ul{
     margin-bottom:20px;
     padding:10px;
 }
+
+footer{
+    color:white;
+    text-align: center;
+    background-color: #343a40;
+    padding:20px;
+    margin-top:40px;
+}
+footer h3{
+    font-weight:600;
+    margin:10px;
+}
